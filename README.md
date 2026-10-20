@@ -34,7 +34,7 @@ For every voice I create, I roughly follow the same workflow.
 
 The result is a voice that sounds natural during everyday speech while still being able to reproduce the character's most memorable moments.
 
-Homer's famous **"D'oh!"** and **"Woohoo!"** were the original reason this project started. Once I heard how well those clips worked, I decided to apply the same approach to every character I created.
+Homer's famous **"D'oh!"** and **"Woohoo!"** were the original reason I started adding iconic clips (because Homer without DO'H is like a bar without beer, right?). Once I heard how well this worked, I decided to apply the same approach to every character I created.
 
 ---
 
@@ -62,9 +62,11 @@ This allows Piper to build the correct phonemes and intonation for the expressio
 Examples:
 
 ✔️ Hello everybody. D'OH!
+
 ❌ Hello everybody D'OH!
 
 ✔️ The beer is gone. BURP!
+
 ❌ He made me burp after dinner.
 
 ---
