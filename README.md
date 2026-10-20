@@ -3,6 +3,7 @@
 High-quality Piper voice models trained using **F5-TTS**, **VoiceBox** and **TextyMcSpeechy**.
 
 The goal of this project is simple: create high-quality custom Piper voices that sound as natural as possible while preserving the personality of the original character.
+I have only created Medium models because High defeats the purpose of what I want to achieve.  Fast generation of a sentence through piper for usage in Home assistant.  Also I have not found any difference in quality between High and Medium models, the only thing I noticed was longer generation time
 
 ---
 
