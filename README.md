@@ -42,7 +42,7 @@ Homer's famous **"D'oh!"** and **"Woohoo!"** were the original reason this proje
 
 | Voice | Audio Sample | Model | Iconic Phrases |
 |:------|:------------:|:-----:|----------------|
-| **Barney Gumble** | 🎧 [Play Sample](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/BarneyGumble.mp3) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/BarneyGumble.zip) | **BURP!**, **OW!** |
+| **Barney Gumble** | <video controls height="32" src="https://github.com/user-attachments/assets/7a8879ad-5f72-41bd-874c-b45ca3e23bc4"></video> | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/BarneyGumble.zip) | **BURP!**, **OW!** |
 
 *More voices will be added over time.*
 
