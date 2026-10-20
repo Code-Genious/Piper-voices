@@ -40,9 +40,9 @@ Homer's famous **"D'oh!"** and **"Woohoo!"** were the original reason this proje
 
 # Available Voices
 
-| Voice | Audio Sample | Model | Iconic Phrases |
-|:------|:------------:|:-----:|----------------|
-| **Barney Gumble** | ![](https://github.com/user-attachments/assets/7a8879ad-5f72-41bd-874c-b45ca3e23bc4) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/BarneyGumble.zip) | **BURP!**, **OW!** |
+| Voice | Sample | Model | Iconic Phrases |
+|:------|:------:|:-----:|----------------|
+| **Barney Gumble** | 🎧 [Listen](Samples/BarneyGumble.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/BarneyGumble.zip) | **BURP!**, **OW!** |
 
 *More voices will be added over time.*
 
