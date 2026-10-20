@@ -8,9 +8,9 @@ The goal of this project is simple: create high-quality custom Piper voices that
 
 # How this started
 
-It all started because I was looking for a good **Homer Simpson** voice for my Piper + Home Assistant setup.
+It all started because I was looking for a good **Samuel L. Jackson** voice for my Piper + Home Assistant setup.  After a lot of searching I did not find this voice anywhere... So i decided to try creating one myself.
 
-There isn't much documentation available on how to create high-quality custom Piper voices. My first attempts used audio from an audiobook, but no matter what I tried, I could never completely get rid of the robotic sound.
+There isn't much useful documentation available on how to create high-quality custom Piper voices. My first attempts used audio from an audiobook, but no matter what I tried, I could never completely get rid of the robotic sound even though I considered this 'clean audio'.
 
 Then I discovered **[Simoniz0r's Piper Voice Models](https://github.com/simoniz0r/piper-voice-models)** and heard an incredibly clean Eminem voice. That was the moment I realized this level of quality was actually possible.
 
