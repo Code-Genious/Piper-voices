@@ -43,6 +43,7 @@ Homer's famous **"D'oh!"** and **"Woohoo!"** were the original reason this proje
 | Voice | Sample | Model | Iconic Phrases |
 |:------|:------:|:-----:|----------------|
 | **Barney Gumble** | 🎧 [Listen](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/BarneyGumble.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/BarneyGumble.zip) | **BURP!**, **OW!** |
+| **Montgomery Burns** | 🎧 [Listen](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/MrBurns.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/MrBurns.zip) | **Excellent**, **Have you gone mad?**, **Huzzah!**, **Release the hounds!**  |
 
 *More voices will be added over time.*
 
