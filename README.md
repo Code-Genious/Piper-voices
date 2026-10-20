@@ -89,3 +89,11 @@ A huge thank you to everyone whose work made this possible.
 - Piper
 
 Without these amazing projects, this repository would never have existed.
+
+---
+
+## ☕ Support My Work
+
+Creating and fine-tuning high-quality Piper TTS models takes time and compute power. If you find these voices useful and would like to support the project, any donation is greatly appreciated!
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thierryverhaegen1)
