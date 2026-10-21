@@ -48,6 +48,7 @@ Homer's famous **"D'oh!"** and **"Woohoo!"** were the original reason I started 
 | **Montgomery Burns** | 🎧 [Listen](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/MrBurns.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/MrBurns.zip) | **Excellent**, **Have you gone mad?**, **Huzzah!**, **Release the hounds!**  |
 | **GLaDOS** | 🎧 [Listen](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/GLaDOS.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/GLaDOS.zip) | None  |
 | **HAL 9000** | 🎧 [Listen](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/HAL9000.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/HAL9000.zip) | None  |
+| **J.A.R.V.I.S** | 🎧 [Listen](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/JARVIS.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/JARVIS.zip) | None  |
 
 *More voices will be added over time.*
 
