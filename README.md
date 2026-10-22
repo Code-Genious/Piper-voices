@@ -50,6 +50,8 @@ Homer's famous **"D'oh!"** and **"Woohoo!"** were the original reason I started 
 | **HAL 9000** | 🎧 [Listen](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/HAL9000.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/HAL9000.zip) | None  |
 | **J.A.R.V.I.S** | 🎧 [Listen](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/JARVIS.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/JARVIS.zip) | **Oh dear**  |
 | **Russ Bray** | 🎧 [Listen](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/RussBray.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/RussBray.zip) | **Game On!**, **Game shot**, **180!**, **[All score calls]!**  |
+| **Apu Nahasamapeeliton** | 🎧 [Listen](https://raw.githubusercontent.com/Code-Genious/Piper-voices/main/Samples/ApuNahasamapeeliton.ogg) | 📦 [Download](https://github.com/Code-Genious/Piper-voices/releases/download/v1.0.0/ApuNahasamapeeliton.zip) | **Thank you! Come again!**, **THIS IS NOT A LIBRARY!**, **Thank you. Don't come again**, **The used to call me the Indian Fonzie. Hey!**, **The customer is always right**  |
+
 
 *More voices will be added over time.*
 
