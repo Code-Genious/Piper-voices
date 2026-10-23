@@ -1,4 +1,4 @@
-name: Generate Siri Audio
+name: Generate Siri Modern Audio
 on: workflow_dispatch
 
 jobs:
