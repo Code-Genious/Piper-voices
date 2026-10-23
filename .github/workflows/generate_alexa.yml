@@ -1,0 +1,48 @@
+name: Generate Alexa Audio (AWS Polly)
+on: workflow_dispatch
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+
+      - name: Generate Harvard Sentences with Alexa (AWS Polly)
+        run: |
+          mkdir -p output_wavs
+
+          sentences=(
+            "The birch canoe slid on the smooth planks."
+            "Glue the sheet to the dark blue background."
+            "It is easy to tell the depth of a well."
+          )
+
+          i=1
+          for s in "${sentences[@]}"; do
+            filename=$(printf "clip%04d.wav" $i)
+            
+            # Joanna (Neural) is de officiële Amerikaanse Alexa stem
+            aws polly synthesize-speech \
+              --engine neural \
+              --output-format pcm \
+              --sample-rate 22050 \
+              --voice-id Joanna \
+              --text "$s" \
+              "output_wavs/$filename"
+              
+            i=$((i+1))
+          done
+
+      - name: Upload Audio Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: alexa-harvard-wavs
+          path: output_wavs/
